@@ -1,0 +1,9 @@
+#include<fstream.h>
+#include<conio.h>
+#include<stdio.h>
+#include<ctype.h>
+#include<string.h>
+#include<process.h>
+#include<stdlib.h>
+#include<time.h>
+#include<math.h>
